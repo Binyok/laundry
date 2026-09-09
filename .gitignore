@@ -1,0 +1,11 @@
+/build/
+/dist/
+/nbproject/private/
+/nbproject/build-impl.xml
+
+laundry.db
+err.txt
+
+*.class
+*.jar
+*.log
