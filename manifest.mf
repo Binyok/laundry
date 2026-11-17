@@ -1,4 +1,4 @@
 Manifest-Version: 1.0
-Main-Class: laundry.Laundry
-Class-Path: lib/sqlite-jdbc.jar lib/slf4j-api.jar lib/slf4j-simple.jar lib/flatlaf.jar
+Main-Class: laundry.Main
+Class-Path: lib/mysql-connector-j-8.0.33.jar
 
